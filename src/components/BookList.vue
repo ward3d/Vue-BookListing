@@ -14,9 +14,9 @@ export default {
     return {
       title: 'All Books',
       books: [
-        {title: 'Sabriel', author: 'Garth Nix'},
-        {title: 'Artemis Fowl', author: 'Eoin Colfer'},
-        {title: 'The Colour of Magic', author: 'Terry Pratchett'}
+        {title: 'Self-Reliance', author: 'Ralph Waldo Emerson'},
+        {title: 'American Gods', author: 'Neil Gaiman'},
+        {title: 'Amusing Ourselves to Death', author: 'Neil Postman'},
       ]
     }
   }
